@@ -9,7 +9,7 @@ It uses console input/output (no database or file management).
 ---
 
 ## 🧾 Source Code
-👉 [View the full C code here](https://github.com/<your-username>/<your-repo>/blob/main/main.c)
+👉 [View the full C code here]((https://github.com/Sanjivani0001/MiniATM/blob/main/Project1.c))
 
 ---
 
